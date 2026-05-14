@@ -1,0 +1,97 @@
+Prepared by: Antonio Garcia Tagaruma 
+STAGE 3. Learning Experience and Implementation 
+7.​ Learning activity design 
+Describe the activity step by step: 
+Phase 1: The Agency Briefing & Discovery (Week 1) 
+●​ What students do: Students form "digital agencies" of 3-4 
+members. They receive a mock creative brief from the Illa de 
+Arousa municipality requesting a web portal for sustainable 
+maritime tourism. They conduct online and offline research about 
+the Ría de Arousa ecosystem and local traditions. 
+●​ How it works: This phase sets the real-world context. Students 
+must define the target audience and identify key cultural elements 
+to highlight (e.g., the batea industry, local lighthouses). 
+Phase 2: Rapid Prototyping with Google Stitch (Weeks 2-3) 
+●​ What students do: Teams translate their research into UI/UX 
+wireframes. They use text-to-design prompts in Google Stitch to 
+generate layout concepts, iterating based on usability principles. 
+●​ How it works: Instead of drawing boxes, students practice "prompt 
+engineering," learning how to command the AI to create 
+accessible, culturally appropriate designs. At the end of Week 3, 
+teams conduct a "Design Handoff," critiquing a rival team's 
+prototype. 
+Phase 3: AI-Assisted Development with Google Antigravity (Weeks 
+4-5) 
+●​ What students do: Teams export their approved UI components 
+and transition into the Google Antigravity IDE. They act as lead 
+developers, directing AI agents to generate the HTML, CSS, and 
+basic JavaScript required to make the site functional and 
+responsive. 
+●​ How it works: The focus shifts from syntax memorization to 
+computational logic and debugging. Students must read the 
+AI-generated code, verify its functionality, fix responsive design 
+breaks, and integrate their specific cultural text and images. 
+Phase 4: Launch and Retrospective (Week 6) 
+●​ What students do: Teams finalize their code, conduct cross-device 
+testing, and present their final web portals to the class. 
+●​ How it works: Each presentation must justify their design choices, 
+explain their AI prompting strategy, and defend how their site 
+actively promotes the sustainability of Illa de Arousa. 
+8.​ Use of technology and resources 
+Explain the resources needed: 
+●​ Digital tools, platforms, or apps: 
+1.​ Google Stitch: Used for rapid UI/UX ideation and generating 
+high-fidelity design systems from text prompts. 
+2.​ Google Antigravity: The AI-powered IDE where students will 
+manage coding agents to write, debug, and structure the 
+HTML/CSS/JS frontend code. 
+3.​ Collaborative Docs (e.g., Google Workspace): For managing the 
+project timeline, drafting site copy, and logging AI prompts. 
+●​ Physical materials or classroom setup: A computer lab equipped 
+with reliable internet access. Ideally, dual-monitor setups (one 
+screen for the AI IDE, one for the browser preview) to mimic a 
+professional developer environment. Whiteboards for initial 
+brainstorming. 
+●​ Justification of tool selection: Using Google Stitch and Antigravity 
+completely transforms the learning curve. Traditionally, 4th-year 
+ESO students would spend weeks just learning basic HTML tags, 
+resulting in very basic, visually unappealing websites. By 
+leveraging generative AI, the cognitive load shifts from 
+"memorizing syntax" to "system architecture, prompt engineering, 
+and critical design thinking." This allows teenagers to produce 
+professional-grade artifacts that genuinely reflect their community, 
+highly increasing their intrinsic motivation while teaching them the 
+actual tools modern developers use. 
+9.​ Implementation plan 
+Explain how the activity would work in practice: 
+●​ Classroom structure: The classroom operates as a "Tech Hub" or 
+co-working space rather than a traditional lecture hall. Students sit 
+in pods with their agency teams, fostering constant collaboration, 
+pair-programming, and real-time problem solving. 
+●​ Teacher role: The teacher shifts from "lecturer" to 
+"Technical/Creative Director." Rather than standing at the front of 
+the room, the teacher circulates among the agencies. Their 
+primary job is to unblock teams struggling with AI prompts, enforce 
+coding best practices, ensure ethical AI usage, and push students 
+to critically evaluate if the AI's output aligns with their cultural 
+goals. 
+●​ Student roles: Within each agency, students assume rotating 
+professional roles: 
+1.​ Project Manager: Tracks deadlines and ensures the team stays 
+aligned with the municipality brief. 
+2.​ Lead UX Designer: Owns the Google Stitch workflow and interface 
+decisions. 
+3.​ Lead Developer: Owns the Google Antigravity workflow, code 
+integration, and debugging. 
+4.​ Content Strategist: Ensures the local maritime culture is accurately 
+represented in the text and media. 
+●​ Adaptation to the chosen context: Because Illa de Arousa is an 
+island context that may face occasional connectivity dips, the 
+implementation plan includes "offline fallback" activities, such as 
+sketching wireframes on paper or writing site copy offline. 
+Furthermore, the project explicitly taps into the students' lived 
+reality. They are encouraged to bring in photos they took of the 
+local ports or conduct informal interviews with family members in 
+the fishing industry to populate their websites, ensuring the digital 
+output is deeply rooted in their physical community. 
+ 

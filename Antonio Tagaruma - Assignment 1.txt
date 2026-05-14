@@ -1,0 +1,71 @@
+Prepared by: Antonio Garcia Tagaruma 
+ 
+STAGE 1. Context and Initial Design 
+1.​ Educational context 
+The context of the educational project:  
+This project is for IES da Illa de Arousa, a secondary-school located on a 
+marine island in the Ría de Arousa, Pontevedra. The school is based in an 
+island culture, where the Atlantic lifestyle and mollusc industry are 
+predominant. This situation offers a unique particularity and a sense of 
+community, but also presents obstacles for educational collaborations. 
+Students' age and educational stage: The project has a target audience of 
+adolescents in the fourth year of the ESO (Secondary Education) system 
+(15-16 years old). These students are in a transition year, and making 
+decisions about their vocational or baccalaureate studies. They are digitally 
+literate but can be passive; therefore, this project will make them active. They 
+are local but may lack a sense of connection with the largely urban digital 
+economy. 
+Educational need, barrier or challenge:  
+Key challenges are the need to overcome the intermittent connectivity issues 
+common in coastal areas and so use "offline-first" digital strategies. Also, the 
+classroom environment is a mix of learners and differentiated instruction is 
+required to address different academic and learning needs. An educational 
+need is to make use of cultural and local resources. This requires the 
+connection between traditional maritime knowledge and skills, and the new 
+web development technology to ensure, in this digital era, that the coastal 
+education and traditions are not lost but strengthened. 
+2.​ Learning topic 
+Learning topic:  
+Information Technology (IT) with a special focus and deep dive into Web 
+Development. This choice is an attempt to transform students from digital 
+citizens to citizen developers, with basic knowledge of front-end web 
+technologies: HTML, CSS and JavaScript, and key principles of User 
+Interface/User Experience (UI/UX). Learning stage: 4th year of ESO 
+(Secondary Education). We choose this level of education because it's a 
+milestone as students are finishing their compulsory education and beginning 
+to decide on their post-compulsory education and training (vocational or 
+baccalaureate). The purpose is to offer these 15-16 year olds information and 
+industry skills that they can use to address the challenges of their local 
+community and the digital economy, and to boost their local identity with the 
+latest technological skills. 
+Initial project idea 
+3.​ What type of learning experience? 
+The project is in fact an applied team-based learning experience, similar to the 
+one of a local digital agency. The students will be working in small, 
+cross-disciplinary teams with each student assuming a role (such as project 
+manager, user interface or user experience designer, front-end developer). 
+The teams' primary challenge is to conceptualise, design and finally develop a 
+sophisticated web portal. The portal will be a tool to rigorously improve 
+sustainable tourism in Ría de Arousa and, by extension, to preserve and 
+celebrate the local culture and maritime heritage of IES da Illa de Arousa. This 
+interactive and high stakes scenario is designed to encourage the teenagers 
+to engage in an authentic and complex problem solving process and through 
+this, to foster complex critical thinking, communication and decision making 
+with the teenagers. The project is also an invitation for them to use and 
+practice design thinking techniques, user research and ethical considerations 
+of digital representation in a vulnerable community. 
+Brief description of technology used in the activity: 
+Technology is integral to the project as it is the primary teaching platform, 
+collaboration and product. Students will be given scaffolding and will use 
+technologies to develop their project. These include foundational front-end 
+tools such as HTML (structure and semantic markup) and CSS (advanced 
+styling, responsive design) to web programming (dynamic interactive front-end 
+design). It will also include the use of industry standard UI/UX tools like Figma 
+for initial sketching, prototyping and peer review which will result in a 
+user-friendly interface. Throughout this course, technology is used to link 
+academic and real world issues. It demands the integration of local content 
+(local maritime knowledge, island history and culture) and real world data 
+(local weather data as an API, official tourism data) to make it as technically 
+robust as it is locally relevant. 
+ 
+ 

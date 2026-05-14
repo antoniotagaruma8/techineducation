@@ -1,0 +1,13 @@
+# Development utilities
+extract_pdfs.py
+
+# Source text files (not needed for the web presentation)
+*.txt
+
+# Unused mockup images (not referenced by any HTML file)
+tourism_portal_mockup.png
+tourism_portal_ipad_mockup.png
+tourism_portal_mobile_mockup.png
+clean_mobile.png
+clean_tablet.png
+tpack_samr_diagram.png

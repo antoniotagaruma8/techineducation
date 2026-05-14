@@ -1,0 +1,117 @@
+Prepared by: Antonio Garcia Tagaruma 
+STAGE 2. Pedagogical and Assessment Design 
+4. Learning objectives 
+By the end of this comprehensive learning experience, students will be able to: 
+●​ Technical Web Development Skills (Execution & Implementation): 
+○​ Translate complex, AI-generated UI/UX layouts into fully functional, 
+responsive web pages. 
+○​ Demonstrate proficiency in structuring semantic HTML5 documents and 
+applying advanced CSS3 styling (including Flexbox and CSS Grid) to ensure 
+responsive layouts across mobile, tablet, and desktop devices. 
+○​ Integrate basic JavaScript to create interactive DOM elements (such as 
+responsive navigation menus, modal windows, or image carousels). 
+●​ Advanced AI Literacy (Design & Coding Workflows): 
+○​ Effectively utilize Google Stitch to rapidly generate, iterate upon, and refine 
+complete design systems and interactive prototypes by engineering highly 
+specific, context-aware text prompts. 
+○​ Master the use of Google Antigravity, an AI-powered IDE, to delegate specific 
+frontend coding tasks, debug syntax errors autonomously, and manage AI 
+agents to assist in writing modular code. 
+●​ Conceptual Knowledge (UX/UI & Environmental Awareness): 
+○​ Understand and apply core principles of User Experience (UX) and User 
+Interface (UI) design, including visual hierarchy, color theory, accessibility 
+standards (WCAG), and user-centric navigation. 
+○​ Articulate the real-world socio-economic and environmental impacts of 
+sustainable tourism on the Ría de Arousa coastal ecosystem, translating this 
+knowledge into compelling digital narratives. 
+●​ Critical Application & Ethical AI Verification: 
+○​ Critically analyze, verify, and edit AI-generated layouts and code to ensure 
+they are free of algorithmic hallucinations, inefficiencies, or cultural biases. 
+○​ Ensure that all digital content authentically, respectfully, and accurately 
+represents the local maritime culture, traditions, and economic realities of the 
+Illa de Arousa community. 
+●​ Soft Skills & Professional Simulation: 
+○​ Work collaboratively in a simulated "digital agency" environment, adopting 
+specific professional roles (e.g., Project Manager, Lead UI Designer, Lead 
+Developer). 
+○​ Successfully execute a professional project handoff, transitioning seamlessly 
+from the ideation and design phase in Google Stitch to the technical 
+development phase in Google Antigravity. 
+5. Pedagogical approach 
+●​ Type of learning approach: The instructional foundation relies on a synthesis of 
+AI-Assisted Project-Based Learning (PBL) and Place-Based Education. By 
+roleplaying as a local digital agency commissioned by the municipality, students are 
+immersed in a highly active, collaborative learning environment that mimics a 
+modern, industry-standard tech workflow. First, they will use Google Stitch to rapidly 
+prototype high-fidelity designs based on descriptive prompts and rough conceptual 
+wireframes. Subsequently, they will utilize Google Antigravity's agent-first paradigm 
+to bring those static designs to life as functional code. Crucially, this entire workflow is 
+grounded in their local geographic reality, transforming abstract IT concepts into a 
+tangible tool for community empowerment. 
+●​ How technology supports learning: Technology and Artificial Intelligence serve not 
+merely as passive tools, but as active co-creators and cognitive scaffolds in this 
+learning design. 
+○​ TPACK Framework Integration: This project tightly weaves the three 
+domains of TPACK. It requires Technological Knowledge (the ability to 
+operate and prompt specialized AI design tools like Google Stitch and 
+complex coding platforms like Google Antigravity). It demands Content 
+Knowledge (understanding the principles of sustainable tourism and the 
+historical context of local maritime heritage). Finally, it leverages Pedagogical 
+Knowledge (using PBL, simulated agency workflows, and peer-to-peer 
+scaffolding to facilitate deep, active learning). 
+○​ SAMR Model Application: The use of generative AI in this context propels 
+the learning experience directly to the "Redefinition" level of the SAMR model. 
+Traditional web development courses for 4th-year ESO students often get 
+bogged down in the steep learning curve of syntax, leading to frustration and 
+blank-page anxiety. By utilizing AI tools as "co-pilots," students bypass these 
+initial technical barriers. They can achieve professional-looking prototypes 
+and complex site functionality that would normally require years of specialized 
+training. This redefines the task: rather than focusing solely on memorizing 
+code syntax, students are elevated to the role of "directors" and "editors," 
+focusing heavily on computational logic, problem-solving, architectural design, 
+and critical thinking. 
+6. Assessment strategy 
+●​ Type of assessment: The project will utilize a robust, multi-faceted mixed 
+assessment strategy to evaluate both the process (how they work) and the final 
+product (what they build). 
+1.​ Formative Assessment: Continuous and embedded throughout the daily 
+workflow, focusing on the iterative process of prompting, designing, and 
+coding. 
+2.​ Summative Assessment: Occurs at the culmination of the project when the 
+final, fully functional websites are "launched" and formally evaluated against a 
+rubric. 
+3.​ Peer 
+Assessment: 
+Structurally integrated as a "quality assurance" 
+mechanism, particularly during the critical "handoff" phase between UI/UX 
+design and backend coding. 
+●​ Feedback methods: 
+1.​ Continuous Teacher Feedback (The "Technical Director" Role): The instructor 
+will step back from traditional lecturing to act as a "Technical Director" or 
+agency mentor. They will provide weekly, targeted formative feedback during 
+lab sessions, focusing specifically on how responsibly, ethically, and 
+effectively students are engineering their prompts for the AI tools. 
+2.​ Peer Design Handoff & Usability Testing: Before writing a single line of code, 
+teams will present their interactive Google Stitch-generated UI/UX prototypes 
+to a rival team. The opposing team will conduct constructive "user testing" 
+and provide formal feedback on usability, accessibility, and cultural accuracy. 
+Only after this feedback is integrated will the original team export the frontend 
+code for refinement in Google Antigravity. 
+●​ Assessment tool or strategy: A comprehensive, four-dimensional Project Rubric 
+will serve as the primary evaluation tool. It will assess the following areas equally: 
+1.​ AI Tool Application & Prompt Engineering (25%): Evaluates the sophistication, 
+iteration, and purposefulness of the team's prompts within Google Stitch and 
+Google Antigravity, assessed via a required "Prompt Log" journal submitted 
+by each team. 
+2.​ Technical Execution & Code Architecture (25%): Evaluates the cleanliness, 
+semantic structure, and responsiveness of the final HTML/CSS/JS code, with 
+specific attention to how well the AI-generated code was customized, 
+debugged, and manually integrated by the human students. 
+3.​ Design, UX, and Usability (25%): Evaluates the website's intuitive navigation, 
+visual appeal, accessibility compliance, and how faithfully the final coded site 
+matches the initial approved Google Stitch prototype. 
+4.​ Content, Context, and Cultural Authenticity (25%): Evaluates the depth of 
+research, the persuasive quality of the copy, and how effectively the website 
+promotes sustainable tourism while truthfully reflecting the authentic maritime 
+identity of Illa de Arousa. 
+ 
